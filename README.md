@@ -13,7 +13,7 @@ Official repository of the paper "Data-Driven Grid Monitoring Under Label Noise 
 ---
 # 📷 Scenario
 
-<img src="Figures/LabelNoiseFaultDetectionScenario.png"/>
+<img src="Figures/labelNoise.png"/>
 
 ---
 
