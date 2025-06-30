@@ -1,6 +1,6 @@
 <div align="center">
   
-# Grid Monitoring Under Label Noise Using Power Line Modems
+# Data-Driven Grid Monitoring Under Label Noise Using Power Line Modems
 
 [Nicola Novello](https://scholar.google.com/citations?user=4PPM0GkAAAAJ&hl=en), [Dong Liang](https://ieeexplore.ieee.org/author/37086818468), and [Andrea M. Tonello](https://scholar.google.com/citations?user=qBiseEsAAAAJ&hl=en)
 
